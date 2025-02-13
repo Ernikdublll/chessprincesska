@@ -1,9 +1,9 @@
 {
-"Enable": true,
+"Enable": false,
 "Locale": ["Indonesian"],
 "Times": ["Jakarta", "Makassar", "Jayapura"],
 "Links":
 [
-  { "Lang":"Indonesian", "Link": ["https://1wvhvo.com/casino/list?open=register&p=pgyf"]}
+  { "Lang":"Indonesian", "Link": [""]}
 ]
 }
